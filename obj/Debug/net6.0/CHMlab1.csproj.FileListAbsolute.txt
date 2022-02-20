@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\CHMlab1\CHMlab1\bin\Debug\net6.0\CHMlab1.exe
+C:\Users\Administrator\source\repos\CHMlab1\CHMlab1\bin\Debug\net6.0\CHMlab1.deps.json
+C:\Users\Administrator\source\repos\CHMlab1\CHMlab1\bin\Debug\net6.0\CHMlab1.runtimeconfig.json
+C:\Users\Administrator\source\repos\CHMlab1\CHMlab1\bin\Debug\net6.0\CHMlab1.dll
+C:\Users\Administrator\source\repos\CHMlab1\CHMlab1\bin\Debug\net6.0\CHMlab1.pdb
+C:\Users\Administrator\source\repos\CHMlab1\CHMlab1\obj\Debug\net6.0\CHMlab1.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CHMlab1\CHMlab1\obj\Debug\net6.0\CHMlab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\CHMlab1\CHMlab1\obj\Debug\net6.0\CHMlab1.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CHMlab1\CHMlab1\obj\Debug\net6.0\CHMlab1.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CHMlab1\CHMlab1\obj\Debug\net6.0\CHMlab1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CHMlab1\CHMlab1\obj\Debug\net6.0\CHMlab1.dll
+C:\Users\Administrator\source\repos\CHMlab1\CHMlab1\obj\Debug\net6.0\refint\CHMlab1.dll
+C:\Users\Administrator\source\repos\CHMlab1\CHMlab1\obj\Debug\net6.0\CHMlab1.pdb
+C:\Users\Administrator\source\repos\CHMlab1\CHMlab1\obj\Debug\net6.0\CHMlab1.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\CHMlab1\CHMlab1\obj\Debug\net6.0\ref\CHMlab1.dll
