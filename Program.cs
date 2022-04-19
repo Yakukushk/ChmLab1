@@ -43,7 +43,11 @@ namespace CHMlab1 {
                 }
                 b = xto - xlast;
             }
-            
+            static double f(double x) {
+                double a = Math.Log2(2-50/1e-4);
+                return a + 1;
+            }
+            Console.WriteLine($"f = {f(x)}");
             Console.WriteLine($"min = {xlast}");
            // Console.WriteLine($"max = {xto}");
             Console.WriteLine($"x = {x}");

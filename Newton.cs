@@ -50,7 +50,13 @@ namespace CHMlab1
 
                 }
                 Console.WriteLine(" ");
-
+                static double p(double x) {
+                    double a = 14 * 0.5;
+                    double b = 2 * 34.75;
+                    double f = Math.Abs(a / b);
+                    return f;
+                }
+                Console.WriteLine($"p = {p(x)}");
                 double[,] myArr = new double[,] {
                  
                 {x, F(x), xlast, 1e-4},

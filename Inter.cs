@@ -49,8 +49,34 @@ namespace CHMlab1
                 if (Math.Abs(x1 - x0) < 0.01) break;
                 x0 = x1;
             }
+            static double f(double x) {
+                double a = Math.Log10(Math.Sqrt(3) - 0.5) / (1 - 1 / 6544) * 1e-4;
+                double b = Math.Log10(6544);
+                return a / b + 1;
+            }
+            Console.WriteLine(" ");
+            static double p(double x)
+            {
+                double a = 14 * 0.5;
+                double b = 2 * 34.75;
+                double f = a / b;
+                return f;
+            }
+            static double g(double x) {
+                double b = ((1 - 6544) / 6544) * 1e-4;
+                double a = Math.Abs(Math.Pow(x, 3) - Math.Pow(x, 2)) * b;
+                return a;
+            }
+            Console.WriteLine($"g = {g(x)}");
+            
+            Console.WriteLine($"p = {p(x)}");
+            Console.WriteLine($"f = {f(x)}");
             double[,] myArr = new double[,] {
-            {x, x1, 1e-4 }
+            {x, x1/1e-4, 1e-4 },
+            {x,x1/1e-3, 1e-3 },
+            {x, x1/1e-2, 1e-2}
+
+
 
             };
             double height = myArr.GetLength(0);
